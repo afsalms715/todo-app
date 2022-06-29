@@ -39,3 +39,18 @@
 .element-inline{
   display: inline;
 }
+
+.text-field{
+  width: 15rem;
+  margin:auto;
+  height: 36px;
+}
+
+.todo-block{
+  height: 3rem;
+  background-color: black;
+  width: 50%;
+  margin:auto;
+  border:5px solid aqua;
+  
+}
